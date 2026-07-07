@@ -1,0 +1,22 @@
+# Core web app
+streamlit
+streamlit-quill
+
+# Data + ML
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+
+# Charts + reporting
+plotly
+kaleido        # required for exporting Plotly charts to PNG in the PDF report
+fpdf2          # PDF report generation
+
+# LLM backends
+openai         # OpenAI API backend (works anywhere, user supplies key)
+ollama         # local LLM backend only — run: ollama pull llama3.2
+
+# Optional: improved TLD parsing
+# tldextract

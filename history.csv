@@ -1,0 +1,61 @@
+timestamp,input_snippet,urls_found,max_score,verdict,signals_fired
+2026-05-03 14:37:22,http://paypal.micros0ft.com/login,1,90,HIGH RISK — LIKELY PHISHING,"typosquat, brand_subdomain, susp_path, http_only"
+2026-05-03 15:19:31,fghfhgf.com,1,10,LOW RISK,http_only
+2026-05-03 15:19:47,www.fghfhgf.com.au,1,10,LOW RISK,http_only
+2026-05-03 15:38:34,https://www.ray-ban.com/australia/sunglasses/RB3819Mrb3819m%20scuderia%20ferrari,1,10,LOW RISK,long_url
+2026-05-03 16:17:18,http://paypal.micros0ft.com/login,1,90,HIGH RISK — LIKELY PHISHING,"typosquat, brand_subdomain, susp_path, http_only"
+2026-05-03 16:21:34,streamlit.errors.StreamlitAPIException: st.session_state.main_input cannot be mo,2,10,LOW RISK,http_only
+2026-05-03 16:28:13,https://ablink.info.remitly.com/ls/click?upn=u001.lrtrj1kUXODudvsM8HD1flBtyLUwyf,1,10,LOW RISK,long_url
+2026-05-03 16:29:39,www.google.com,1,0,LIKELY SAFE,http_only
+2026-05-03 16:56:28,https://github.com/devraj-vashi/cos80029-phishing-detection/invitations,1,0,LIKELY SAFE,none
+2026-05-03 19:29:39,www.google.com,1,0,LIKELY SAFE,http_only
+2026-05-03 19:35:28,https://www.google.com/search?sca_esv=687f1037b7fe1874&rlz=1C1HKFL_enAU1204AU120,1,0,LIKELY SAFE,long_url
+2026-05-03 19:38:44,https://rail.ninja/route/melbourne-to-sydney#:~:text=Driving%20from%20Melbourne%,1,10,LOW RISK,long_url
+2026-05-03 20:10:49,www.google.com,1,0,LIKELY SAFE,http_only
+2026-05-03 20:12:39,https://paypa1.com/login/verify,1,45,MEDIUM RISK,"typosquat, susp_path"
+2026-05-03 20:12:50,https://paypa1.com/login/verify,1,45,MEDIUM RISK,"typosquat, susp_path"
+2026-05-03 20:13:17,http://paypal.attacker-domain.tk/confirm,1,80,HIGH RISK — LIKELY PHISHING,"brand_subdomain, susp_path, susp_tld, http_only"
+2026-05-03 20:21:25,Delivered-To: barsarana1997@gmail.com Received: by 2002:a05:6918:6f07:b0:43a:c8d,9,45,MEDIUM RISK,"http_only, brand_subdomain"
+2026-05-03 20:22:35,Delivered-To: barsarana1997@gmail.com Received: by 2002:a05:6918:6f07:b0:43a:c8d,9,45,MEDIUM RISK,"http_only, brand_subdomain"
+2026-05-05 21:49:59,http://www.youtube.com.au,1,10,LOW RISK,http_only
+2026-05-08 16:23:29,http://paypal.micros0ft.com/login,1,90,HIGH RISK — LIKELY PHISHING,"typosquat, brand_subdomain, susp_path, http_only"
+2026-05-20 14:57:21,"Synthetic Phishing Testing Dataset Use only for cybersecurity education, model t",6,80,HIGH RISK — LIKELY PHISHING,"brand_subdomain, susp_path, high_entropy, http_only"
+2026-05-20 15:12:16,"id,type,label,content,notes 1,url,phishing_test,http://secure-login-example.com",8,80,HIGH RISK — LIKELY PHISHING,"brand_subdomain, susp_path, high_entropy, http_only"
+2026-05-20 19:57:49,www.google.com,1,0,LIKELY SAFE,http_only
+2026-05-20 20:12:58,www.google.com,1,0,LIKELY SAFE,http_only
+2026-05-20 20:19:20,www.ggoogle.com,1,40,MEDIUM RISK,"typosquat, http_only"
+2026-05-20 20:59:20,www.amazon.com,1,0,LIKELY SAFE,http_only
+2026-05-20 21:15:05,www.amazon.com,1,0,LIKELY SAFE,http_only
+2026-05-20 21:28:16,"id,type,label,content,notes 1,url,phishing_test,http://secure-login-example.com",8,80,HIGH RISK — LIKELY PHISHING,"brand_subdomain, susp_path, high_entropy, http_only"
+2026-05-22 17:02:02,www.gooole.com.au,1,40,MEDIUM RISK,"typosquat, http_only"
+2026-05-22 17:08:47,www.amazon.com.09,1,0,LIKELY SAFE,http_only
+2026-05-22 17:16:25,www.amazon.com.09,1,0,LIKELY SAFE,http_only
+2026-05-22 17:16:29,www.amazon.com,1,0,LIKELY SAFE,http_only
+2026-05-22 17:16:32,www.amazon.com,1,0,LIKELY SAFE,http_only
+2026-05-22 17:21:05,www.g0ogle.com,1,40,MEDIUM RISK,"typosquat, http_only"
+2026-05-22 17:24:49,Received: from SA3PR19MB7370.namprd19.prod.outlook.com (::1) by  MN0PR19MB6312.n,10,10,LOW RISK,"http_only, excess_subdomains, brand_subdomain"
+2026-05-22 17:25:40,Received: from SA3PR19MB7370.namprd19.prod.outlook.com (::1) by  MN0PR19MB6312.n,10,10,LOW RISK,"http_only, excess_subdomains, brand_subdomain"
+2026-05-22 17:25:49,Received: from SA3PR19MB7370.namprd19.prod.outlook.com (::1) by  MN0PR19MB6312.n,10,10,LOW RISK,"http_only, excess_subdomains, brand_subdomain"
+2026-05-22 17:58:21,www.google.com,1,0,LIKELY SAFE,http_only
+2026-05-29 16:59:57,www.google.com,1,0,LIKELY SAFE,http_only
+2026-05-29 17:02:07,www.g))gle.com,1,10,LOW RISK,http_only
+2026-05-29 17:03:19,www.g))gle.com,1,10,LOW RISK,http_only
+2026-05-29 17:03:21,www.g))gle.com,1,10,LOW RISK,http_only
+2026-05-29 17:03:34,www.g))gle.com,1,10,LOW RISK,http_only
+2026-05-29 17:03:35,www.g))gle.com,1,10,LOW RISK,http_only
+2026-05-29 17:03:36,www.g))gle.com,1,10,LOW RISK,http_only
+2026-05-29 17:03:37,www.g))gle.com,1,10,LOW RISK,http_only
+2026-05-29 17:03:38,www.g))gle.com,1,10,LOW RISK,http_only
+2026-05-29 17:03:38,www.g))gle.com,1,10,LOW RISK,http_only
+2026-05-29 17:03:41,www.g))gle.com,1,10,LOW RISK,http_only
+2026-05-29 17:03:45,www.g))gle.com,1,10,LOW RISK,http_only
+2026-05-29 17:03:57,www.g))gle.com,1,10,LOW RISK,http_only
+2026-05-29 17:03:59,www.g))gle.com,1,10,LOW RISK,http_only
+2026-05-29 17:04:01,www.g))gle.com,1,10,LOW RISK,http_only
+2026-05-29 17:04:03,www.g))gle.com,1,10,LOW RISK,http_only
+2026-05-29 17:04:06,www.g))gle.com,1,10,LOW RISK,http_only
+2026-05-29 17:05:50,www.g00gle.com,1,40,MEDIUM RISK,"typosquat, http_only"
+2026-06-06 17:40:48,www.g00gle.com,1,40,MEDIUM RISK,"typosquat, http_only"
+2026-06-06 17:41:50,www.g00gle.com,1,40,MEDIUM RISK,"typosquat, http_only"
+2026-06-06 18:19:06,www.g00gle.com,1,40,MEDIUM RISK,"typosquat, http_only"
+2026-07-07 21:21:54,"Skip to content Using Gmail with screen readers  10 of 1,987  Discover top inter",23,10,LOW RISK,"brand_subdomain, long_url, http_only"
